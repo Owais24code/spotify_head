@@ -1,14 +1,6 @@
+# Spotify_head
 
-
-
-<!-- Social Links -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-
-# Spotify-Clone
-
-### Some of screen-shots of my spotify-clone website.
+### Some of screen-shots of my spotify_head website.
 
 <!-- Add Screenshot of project -->
 ![1](./Assets/screen-shot/1.png)
